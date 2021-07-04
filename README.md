@@ -33,3 +33,7 @@
   
   
   [![Hirdesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirdeshkumar2407)](https://github.com/hirdeshkumar2407/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirdeshkumar2407&layout=compact)](https://github.com/hirdeshkumar2407/github-readme-stats)
