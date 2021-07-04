@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [hirdeshkumar2407.github.io](https://github.com/hirdeshkumar2407)
 
-- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, AI**
+- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, AI, Blockchain**
 
 - 📫 How to reach me **hirdeshkumar2407@gmail.com**
 
