@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Website Development**
 
-- 📙 My areas of are Artificial Intelligence, Blockchain, Data Science, and Website Development
+- 📙 My areas of interest are Artificial Intelligence, Blockchain, Data Science, and Website Development
 
 - 👨‍💻 All of my projects are available at [hirdeshkumar2407.github.io](https://github.com/hirdeshkumar2407)
 
