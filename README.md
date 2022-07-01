@@ -1,12 +1,11 @@
 <h2> Hello 👋, my name is Hirdesh Kumar</h2>
 
-- 🌱 I’m currently learning **Website Development**
 
-- 📙 My areas of interest are Artificial Intelligence, Blockchain, Data Science, and Website Development
+- 📙 My areas of interest are Cloud Computing, DevOps, Data Science,System Administration and Website Development
 
 - 👨‍💻 All of my projects are available at [hirdeshkumar2407.github.io](https://github.com/hirdeshkumar2407)
 
-- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, AI, Blockchain**
+- 💬 Ask me about **Linux, AWS, Azure, DevOps, SQL,MongoDb,Javascript, Python, React.js, Node.js**
 
 - 📫 How to reach me **hirdeshkumar2407@gmail.com**
 
