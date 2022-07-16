@@ -1,11 +1,11 @@
 <h2> Hello 👋, my name is Hirdesh Kumar</h2>
 
 
-- 📙 My areas of interest are Cloud Computing, DevOps, Data Science,System Administration and Website Development
+- 📙 My areas of interest are Cloud Computing, DevOps, System Administration, Data Science and Website Development
 
 - 👨‍💻 All of my projects are available at [hirdeshkumar2407.github.io](https://github.com/hirdeshkumar2407)
 
-- 💬 Ask me about **Linux, AWS, Azure, DevOps, SQL,MongoDb,Javascript, Python, React.js, Node.js**
+- 💬 Ask me about **Linux, AWS, Azure, DevOps, SQL, MongoDb,Javascript, Python, Node.js**
 
 - 📫 How to reach me **hirdeshkumar2407@gmail.com**
 
