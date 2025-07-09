@@ -1,13 +1,13 @@
 <h2> Hello 👋, my name is Hirdesh Kumar</h2>
 
 
-- 📙 My areas of interest are Cloud Computing, DevOps, System Administration, Data Science and Website Development
+📚 Currently pursuing MSc HPC Engineering @ Politecnico di Milano (2024-2025)
 
-- 👨‍💻 All of my projects are available at [hirdeshkumar2407.github.io](https://github.com/hirdeshkumar2407)
+👨‍💻 All of my projects are available at hirdeshkumar2407.github.io
 
-- 💬 Ask me about **Linux, AWS, Azure, DevOps, SQL, MongoDb, Javascript, Java, Python, and Node.js**
+💬 Ask me about C++, Python, MPI, Docker, Kubernetes, Machine Learning, DevOps, and High-Performance Computing
 
-- 📫 How to reach me **hirdeshkumar2407@gmail.com**
+📫 How to reach me: hirdeshkumar2407@gmail.com
 
 
 <h3 >Connect with me:</h3>
@@ -20,28 +20,6 @@
 <a href="https://discord.gg/#3970" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hk" height="30" width="40" /></a>
 
 
-</p>
-
-<h3 >Languages and Tools:</h3>
-
-<p >
-   <a href="https://ubuntu.com/tutorials" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="xd" width="40" height="40"/> </a> 
-  <a href="https://www.geeksforgeeks.org/linux-commands/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://linuxhint.com/30_bash_script_examples/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/704/597/png-clipart-computer-icons-command-line-interface-linux-system-console-command-line-icon-miscellaneous-text-thumbnail.png" alt="git" width="40" height="40"/> </a>
-      <a href="https://www.tutorialspoint.com/docker/index.htm" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a>
-     <a href="https://www.tutorialspoint.com/jenkins/index.htm" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="40"/> </a>
-   <a href="https://www.w3schools.com/aws/index.php" target="_blank"> <img src="https://bizgiveworld.com/wp-content/uploads/2020/04/aws-logo.png" alt="aws" width="40" height="40"/> </a>
-   <a href="https://www.tutorialspoint.com/microsoft_azure/index.htm" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
-    <a href="https://www.w3schools.com/python/numpy/default.asp" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="scikit_learn" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank"> <img src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/vs/getting-started/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="xd" width="40" height="40"/> </a> 
-  
 
   
 
