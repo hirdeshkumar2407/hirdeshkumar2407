@@ -52,7 +52,7 @@ Here are a few highlights from my portfolio, showcasing my work across different
 - [ `HPC-SIR-Epidemic-Model-Simulation` ](https://github.com/hirdeshkumar2407/HPC-SIR-Epidemic-Model-Simulation)
 - [ `PMatrix-High-Performance-Matrix-Computation` ](https://github.com/hirdeshkumar2407/PMatrix-High-Performance-Matrix-Computation)
 
-**DevOps & Cloud Native:**
+**DevOps & Cloud:**
 - [ `SE4HPC-Project-with-CI-CD-GitHub-Actions-Singularity-and-Slurm` ](https://github.com/hirdeshkumar2407/SE4HPC-Project-with-CI-CD-GitHub-Actions-Singularity-and-Slurm)
 - [ `nodejs-calculator-docker-kubernetes-datadog-admission-control` ](https://github.com/hirdeshkumar2407/nodejs-calculator-docker-kubernetes-datadog-admission-control)
 
