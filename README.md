@@ -15,10 +15,11 @@ I am a High-Performance Computing Engineer, specializing in architecting the rob
 - 🌱 **I’m currently learning:** To deepen my expertise in HPC, MLOps, and to master the Italian language.
 - 👯 **I’m looking to collaborate on:** Open-source projects related to scientific computing, AI infrastructure, or DevOps.
 - 💬 **Ask me about:** HPC, DevOps, CI/CD, Kubernetes, Machine Learning, or my other life as a theatre actor.
+- 📫 **How to reach me:** hirdeshkumar2407@gmail.com
 
 ---
 
-<h3>My Core Competencies</h3>
+### My Core Competencies
 
 <table>
   <tr>
@@ -43,9 +44,33 @@ I am a High-Performance Computing Engineer, specializing in architecting the rob
 
 ---
 
+### Selected Projects
+
+Here are a few highlights from my portfolio, showcasing my work across different domains.
+
+**HPC & Scientific Computing:**
+- [ `HPC-SIR-Epidemic-Model-Simulation` ](https://github.com/hirdeshkumar2407/HPC-SIR-Epidemic-Model-Simulation)
+- [ `PMatrix-High-Performance-Matrix-Computation` ](https://github.com/hirdeshkumar2407/PMatrix-High-Performance-Matrix-Computation)
+
+**AI & Machine Learning:**
+- [ `RAG_Pipeline_LLM` ](https://github.com/hirdeshkumar2407/RAG_Pipeline_LLM)
+- [ `Fintech-Needs-Based-Recommendation-System` ](https://github.com/hirdeshkumar2407/Fintech-Needs-Based-Recommendation-System)
+
+**DevOps & Cloud Native:**
+- [ `SE4HPC-Project-with-CI-CD-GitHub-Actions-Singularity-and-Slurm` ](https://github.com/hirdeshkumar2407/SE4HPC-Project-with-CI-CD-GitHub-Actions-Singularity-and-Slurm)
+- [ `nodejs-calculator-docker-kubernetes-datadog-admission-control` ](https://github.com/hirdeshkumar2407/nodejs-calculator-docker-kubernetes-datadog-admission-control)
+
+**Foundational Computer Science:**
+- [ `pl0com-compiler` ](https://github.com/hirdeshkumar2407/pl0com-compiler)
+- [ `Block-Chain-Powered-NIC-System` ](https://github.com/hirdeshkumar2407/Block-Chain-Powered-NIC-System-)
+
+---
+
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirdeshkumar2407&show_icons=true&theme=radical" alt="Hirdesh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirdeshkumar2407&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+```
+---
