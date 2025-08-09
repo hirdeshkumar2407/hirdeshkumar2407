@@ -52,13 +52,13 @@ Here are a few highlights from my portfolio, showcasing my work across different
 - [ `HPC-SIR-Epidemic-Model-Simulation` ](https://github.com/hirdeshkumar2407/HPC-SIR-Epidemic-Model-Simulation)
 - [ `PMatrix-High-Performance-Matrix-Computation` ](https://github.com/hirdeshkumar2407/PMatrix-High-Performance-Matrix-Computation)
 
-**AI & Machine Learning:**
-- [ `RAG_Pipeline_LLM` ](https://github.com/hirdeshkumar2407/RAG_Pipeline_LLM)
-- [ `Fintech-Needs-Based-Recommendation-System` ](https://github.com/hirdeshkumar2407/Fintech-Needs-Based-Recommendation-System)
-
 **DevOps & Cloud Native:**
 - [ `SE4HPC-Project-with-CI-CD-GitHub-Actions-Singularity-and-Slurm` ](https://github.com/hirdeshkumar2407/SE4HPC-Project-with-CI-CD-GitHub-Actions-Singularity-and-Slurm)
 - [ `nodejs-calculator-docker-kubernetes-datadog-admission-control` ](https://github.com/hirdeshkumar2407/nodejs-calculator-docker-kubernetes-datadog-admission-control)
+
+**AI & Machine Learning:**
+- [ `RAG_Pipeline_LLM` ](https://github.com/hirdeshkumar2407/RAG_Pipeline_LLM)
+- [ `Fintech-Needs-Based-Recommendation-System` ](https://github.com/hirdeshkumar2407/Fintech-Needs-Based-Recommendation-System)
 
 **Foundational Computer Science:**
 - [ `pl0com-compiler` ](https://github.com/hirdeshkumar2407/pl0com-compiler)
