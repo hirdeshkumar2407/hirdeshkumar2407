@@ -48,7 +48,7 @@ I am a High-Performance Computing Engineer, specializing in architecting the rob
 
 Here are a few highlights from my portfolio, showcasing my work across different domains.
 
-**HPC & Scientific Computing:**
+**HPC & Parallel Computing:**
 - [ `HPC-SIR-Epidemic-Model-Simulation` ](https://github.com/hirdeshkumar2407/HPC-SIR-Epidemic-Model-Simulation)
 - [ `PMatrix-High-Performance-Matrix-Computation` ](https://github.com/hirdeshkumar2407/PMatrix-High-Performance-Matrix-Computation)
 
