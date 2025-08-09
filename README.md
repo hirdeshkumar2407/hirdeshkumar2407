@@ -15,7 +15,6 @@ I am a High-Performance Computing Engineer, specializing in architecting the rob
 - 🌱 **I’m currently learning:** To deepen my expertise in HPC, MLOps, and to master the Italian language.
 - 👯 **I’m looking to collaborate on:** Open-source projects related to scientific computing, AI infrastructure, or DevOps.
 - 💬 **Ask me about:** HPC, DevOps, CI/CD, Kubernetes, Machine Learning, or my other life as a theatre actor.
-- 📫 **How to reach me:** hirdeshkumar2407@gmail.com
 
 ---
 
